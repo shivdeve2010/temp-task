@@ -1,0 +1,7 @@
+.center-text {
+    text-align: center;
+}
+.card-border {
+    border: 2px solid black;
+    margin: 10%;
+}
